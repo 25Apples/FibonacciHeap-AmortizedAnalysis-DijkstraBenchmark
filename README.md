@@ -9,11 +9,11 @@ Final coursework for **Data Structures & Algorithms (ALDS335764)**
 This project compares **Fibonacci Heap** and **Binary Heap** in Dijkstra's algorithm using **amortized analysis** (potential method).
 
 ### 🔧 Features
-- ✅ Full Fibonacci Heap: `insert`, `extract_min`, `decrease_key`
-- ✅ Dijkstra's algorithm with both heaps
-- ✅ Benchmark with custom node range (2 → 10,000+)
-- ✅ Auto-plot result via MATLAB (`.m` script)
-- ✅ PNG chart export for quick comparison
+- Full Fibonacci Heap: `insert`, `extract_min`, `decrease_key`
+- Dijkstra's algorithm with both heaps
+- Benchmark with custom node range (2 → 10,000+)
+- Auto-plot result via MATLAB (`.m` script)
+- PNG chart export for quick comparison
 
 ---
 
